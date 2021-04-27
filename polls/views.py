@@ -13,3 +13,5 @@ def index(request):
     }
 
     return render(request, "polls/index.html", context)
+
+
